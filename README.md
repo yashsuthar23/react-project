@@ -26,11 +26,8 @@ To confirm that you have npm installed, run:
 
 Clone the Repository: Navigate to the directory where you want to clone the repository and run the following command:
 
-### git clone https://github.com/Vasu7389/react-project-ideas.git
 
-Navigate to the Project Directory: Change to the directory of the project you want to work on. For example, if you want to work on the first project, you would do:
-
-### cd react-project-ideas/project-1
+### cd react-project/
 
 Install Dependencies: Once you’re in the project directory, you can install the necessary dependencies by running:
 
@@ -42,22 +39,11 @@ Start the Development Server: After all dependencies are installed, you can star
 
 Now, you should be able to see the project running at http://localhost:3000 in your web browser.
 
-## ReactJs Projects
-
-### [Day 9 - shoppinn](https://github.com/Vasu7389/react-project-ideas/tree/master/day009) | [Demo](https://www.codinn.dev/projects/reactjs-ecommerce-open-source-project-with-github-code)
-
-In this tutorial we will develop a shopping website using Reactjs Context API. This tutorial will teach you to develop an e-commerce website with basic functionality i.e. show products, add to cart, review and checkout and place & view orders.
-
 #### How-to Run:
-
-```
-git clone https://github.com/Vasu7389/react-project-ideas.git
+cd react-project
 ```
 ```
-cd react-project-ideas
-```
-```
-cd day009/shoppin
+cd day
 ```
 ```
 npm install
